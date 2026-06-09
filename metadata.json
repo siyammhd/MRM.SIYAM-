@@ -1,0 +1,6 @@
+{
+  "name": "SV Online Mart",
+  "description": "SV Online Mart is a premium, AI-powered e-commerce marketplace featuring smart category browsing, checkout, live tracking, order monitoring, customer support chat, and deep business analytics powered by Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
